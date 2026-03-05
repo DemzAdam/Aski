@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822905354803",
+    "project_id": "asky-e73ad",
+    "storage_bucket": "asky-e73ad.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822905354803:android:9e8cdb0628db4e08edc146",
+        "android_client_info": {
+          "package_name": "com.asky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWx3nHaEqaGyF3YLfIOHBB6Q47U37W-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822905354803:android:fd385daf39eb4f12edc146",
+        "android_client_info": {
+          "package_name": "com.example.asky"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXWx3nHaEqaGyF3YLfIOHBB6Q47U37W-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
